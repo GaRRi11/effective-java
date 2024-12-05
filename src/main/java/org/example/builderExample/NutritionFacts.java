@@ -1,4 +1,4 @@
-package org.example.factoryDesignPattern.builderExample;
+package org.example.builderExample;
 
 public class NutritionFacts {
 
@@ -13,7 +13,7 @@ public class NutritionFacts {
         private final int servingSize;
         private final int servings;
 
-        private int calories = 0;
+        private int calories = 0;1
         private int fat = 0;
         private int sodium = 0;
         private int carbohydrates = 0;
